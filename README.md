@@ -1,2 +1,2 @@
-# Java-Snake-and-Ball-Game
+# Java-Snake-and-Blocks-Game
 A Snake Blocks and Ball Game designed in Java using Javafx
